@@ -1,0 +1,12 @@
+[submodule "services/main-core"]
+	path = services/main-core
+	url = https://github.com/jagadeesh-max/main.git
+[submodule "services/subModule-1"]
+	path = services/subModule-1
+	url = https://github.com/jagadeesh-max/subModule1.git
+[submodule "services/subModule-2"]
+	path = services/subModule-2
+	url = https://github.com/jagadeesh-max/subModule2.git
+[submodule "data/Example-data"]
+	path = data/Example-data
+	url = https://github.com/jagadeesh-max/example-data.git
